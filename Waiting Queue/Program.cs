@@ -7,7 +7,7 @@ namespace Waiting_Queue
     {
         static void Main(string[] args)
         {
-            new PrivelegedQueueSimulator().Run(10, 1.1);
+            new PrivelegedQueueSimulator().Run(1.0, 1.1);
         }
     }
 }
